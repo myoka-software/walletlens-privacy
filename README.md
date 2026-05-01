@@ -1,22 +1,4 @@
-## 🇷🇺 Русский (Russian)
-**Политика конфиденциальности**
-*Последнее обновление: 1 мая 2026 г.*
-
-**Сбор данных:** Наше приложение создано с фокусом на вашу приватность. Мы не собираем, не храним и не передаем ваши личные данные или финансовую информацию на сторонние серверы.
-
-**Хранение данных:** Все введенные вами данные (транзакции, кошельки, чеки) хранятся исключительно локально на вашем устройстве с использованием защищенных механизмов Apple. Ни разработчик, ни третьи лица не имеют доступа к вашей финансовой истории.
-
-**Аналитика и трекинг:** Приложение не использует сторонние системы аналитики (трекеры) и не собирает статистику об использовании приложения.
-
-**Распознавание чеков (OCR):** Функция сканирования чеков работает полностью автономно (on-device) с использованием встроенных технологий вашего устройства. Изображения чеков не отправляются в интернет для обработки.
-
-**Обратная связь:** Если вы решите отправить нам письмо в службу поддержки (myoka.help@gmail.com), мы получим только ту информацию, которую вы добровольно включите в письмо (например, ваш email и текст сообщения). Эти данные будут использованы исключительно для решения вашей проблемы.
-
-**Изменения в политике:** При добавлении новых функций (например, облачной синхронизации в будущих версиях) данная политика будет обновлена, и мы запросим ваше согласие, если этого потребуют правила.
-
----
-
-## 🇺🇸 Английский (English - USA)
+## 🇺🇸 English
 **Privacy Policy**
 *Last updated: May 1, 2026*
 
@@ -34,43 +16,7 @@
 
 ---
 
-## 🇺🇦 Украинский (Ukrainian)
-**Політика конфіденційності**
-*Останнє оновлення: 1 травня 2026 р.*
-
-**Збір даних:** Наш застосунок створено з фокусом на вашу приватність. Ми не збираємо, не зберігаємо та не передаємо ваші особисті дані або фінансову інформацію на сторонні сервери.
-
-**Зберігання даних:** Усі введені вами дані (транзакції, гаманці, чеки) зберігаються виключно локально на вашому пристрої з використанням захищених механізмів Apple. Ні розробник, ні треті особи не мають доступу до вашої фінансової історії.
-
-**Аналітика та трекінг:** Застосунок не використовує сторонні системи аналітики (трекери) та не збирає статистику про використання застосунку.
-
-**Розпізнавання чеків (OCR):** Функція сканування чеків працює повністю автономно (on-device) з використанням вбудованих технологій вашого пристрою. Зображення чеків не відправляються в інтернет для обробки.
-
-**Зворотний зв'язок:** Якщо ви вирішите відправити нам лист у службу підтримки (myoka.help@gmail.com), ми отримаємо лише ту інформацію, яку ви добровільно включите в лист (наприклад, ваш email та текст повідомлення). Ці дані будуть використані виключно для вирішення вашої проблеми.
-
-**Зміни в політиці:** При додаванні нових функцій (наприклад, хмарної синхронізації в майбутніх версіях) цю політику буде оновлено, і ми запитаємо вашу згоду, якщо цього вимагатимуть правила.
-
----
-
-## 🇵🇱 Польский (Polish)
-**Polityka prywatności**
-*Ostatnia aktualizacja: 1 maja 2026 r.*
-
-**Gromadzenie danych:** Nasza aplikacja została stworzona z myślą o Twojej prywatności. Nie gromadzimy, nie przechowujemy ani nie przesyłamy Twoich danych osobowych ani informacji finansowych na serwery stron trzecich.
-
-**Przechowywanie danych:** Wszystkie wprowadzone przez Ciebie dane (transakcje, portfele, paragony) są przechowywane wyłącznie lokalnie na Twoim urządzeniu przy użyciu bezpiecznych mechanizmów Apple. Ani deweloper, ani osoby trzecie nie mają dostępu do Twojej historii finansowej.
-
-**Analityka i śledzenie:** Aplikacja nie korzysta z systemów analitycznych stron trzecich (trackerów) i nie zbiera statystyk dotyczących korzystania z aplikacji.
-
-**Rozpoznawanie paragonów (OCR):** Funkcja skanowania paragonów działa całkowicie w trybie offline (na urządzeniu), wykorzystując wbudowane technologie Twojego urządzenia. Obrazy paragonów nie są wysyłane do internetu w celu przetworzenia.
-
-**Informacje zwrotne:** Jeśli zdecydujesz się wysłać e-mail do naszego zespołu wsparcia (myoka.help@gmail.com), otrzymamy tylko te informacje, które dobrowolnie dołączysz do wiadomości (np. Twój adres e-mail i treść wiadomości). Dane te będą wykorzystywane wyłącznie w celu rozwiązania Twojego problemu.
-
-**Zmiany w polityce:** W przypadku dodania nowych funkcji (np. synchronizacji w chmurze w przyszłych wersjach) niniejsza polityka zostanie zaktualizowana, a my poprosimy o Twoją zgodę, jeśli będą tego wymagać przepisy.
-
----
-
-## 🇩🇪 Немецкий (German)
+## 🇩🇪 Deutsch
 **Datenschutzerklärung**
 *Letzte Aktualisierung: 1. Mai 2026*
 
@@ -88,7 +34,7 @@
 
 ---
 
-## 🇫🇷 Французский (French)
+## 🇫🇷 Français
 **Politique de confidentialité**
 *Dernière mise à jour : 1 mai 2026*
 
@@ -106,7 +52,61 @@
 
 ---
 
-## 🇯🇵 Японский (Japanese)
+## 🇵🇱 Polski
+**Polityka prywatności**
+*Ostatnia aktualizacja: 1 maja 2026 r.*
+
+**Gromadzenie danych:** Nasza aplikacja została stworzona z myślą o Twojej prywatności. Nie gromadzimy, nie przechowujemy ani nie przesyłamy Twoich danych osobowych ani informacji finansowych na serwery stron trzecich.
+
+**Przechowywanie danych:** Wszystkie wprowadzone przez Ciebie dane (transakcje, portfele, paragony) są przechowywane wyłącznie lokalnie na Twoim urządzeniu przy użyciu bezpiecznych mechanizmów Apple. Ani deweloper, ani osoby trzecie nie mają dostępu do Twojej historii finansowej.
+
+**Analityka i śledzenie:** Aplikacja nie korzysta z systemów analitycznych stron trzecich (trackerów) i nie zbiera statystyk dotyczących korzystania z aplikacji.
+
+**Rozpoznawanie paragonów (OCR):** Funkcja skanowania paragonów działa całkowicie w trybie offline (na urządzeniu), wykorzystując wbudowane technologie Twojego urządzenia. Obrazy paragonów nie są wysyłane do internetu w celu przetworzenia.
+
+**Informacje zwrotne:** Jeśli zdecydujesz się wysłać e-mail do naszego zespołu wsparcia (myoka.help@gmail.com), otrzymamy tylko te informacje, które dobrowolnie dołączysz do wiadomości (np. Twój adres e-mail i treść wiadomości). Dane te będą wykorzystywane wyłącznie w celu rozwiązania Twojego problemu.
+
+**Zmiany w polityce:** W przypadku dodania nowych funkcji (np. synchronizacji w chmurze w przyszłych wersjach) niniejsza polityka zostanie zaktualizowana, a my poprosimy o Twoją zgodę, jeśli będą tego wymagać przepisy.
+
+---
+
+## 🇷🇺 Русский
+**Политика конфиденциальности**
+*Последнее обновление: 1 мая 2026 г.*
+
+**Сбор данных:** Наше приложение создано с фокусом на вашу приватность. Мы не собираем, не храним и не передаем ваши личные данные или финансовую информацию на сторонние серверы.
+
+**Хранение данных:** Все введенные вами данные (транзакции, кошельки, чеки) хранятся исключительно локально на вашем устройстве с использованием защищенных механизмов Apple. Ни разработчик, ни третьи лица не имеют доступа к вашей финансовой истории.
+
+**Аналитика и трекинг:** Приложение не использует сторонние системы аналитики (трекеры) и не собирает статистику об использовании приложения.
+
+**Распознавание чеков (OCR):** Функция сканирования чеков работает полностью автономно (on-device) с использованием встроенных технологий вашего устройства. Изображения чеков не отправляются в интернет для обработки.
+
+**Обратная связь:** Если вы решите отправить нам письмо в службу поддержки (myoka.help@gmail.com), мы получим только ту информацию, которую вы добровольно включите в письмо (например, ваш email и текст сообщения). Эти данные будут использованы исключительно для решения вашей проблемы.
+
+**Изменения в политике:** При добавлении новых функций (например, облачной синхронизации в будущих версиях) данная политика будет обновлена, и мы запросим ваше согласие, если этого потребуют правила.
+
+---
+
+## 🇺🇦 Українська
+**Політика конфіденційності**
+*Останнє оновлення: 1 травня 2026 р.*
+
+**Збір даних:** Наш застосунок створено з фокусом на вашу приватність. Ми не збираємо, не зберігаємо та не передаємо ваші особисті дані або фінансову інформацію на сторонні сервери.
+
+**Зберігання даних:** Усі введені вами дані (транзакції, гаманці, чеки) зберігаються виключно локально на вашому пристрої з використанням захищених механізмів Apple. Ні розробник, ні треті особи не мають доступу до вашої фінансової історії.
+
+**Аналітика та трекінг:** Застосунок не використовує сторонні системи аналітики (трекери) та не збирає статистику про використання застосунку.
+
+**Розпізнавання чеків (OCR):** Функція сканування чеків працює повністю автономно (on-device) з використанням вбудованих технологій вашого пристрою. Зображення чеків не відправляються в інтернет для обробки.
+
+**Зворотний зв'язок:** Якщо ви вирішите відправити нам лист у службу підтримки (myoka.help@gmail.com), ми отримаємо лише ту інформацію, яку ви добровільно включите в лист (наприклад, ваш email та текст повідомлення). Ці дані будуть використані виключно для вирішення вашої проблеми.
+
+**Зміни в політиці:** При додаванні нових функцій (наприклад, хмарної синхронізації в майбутніх версіях) цю політику буде оновлено, і ми запитаємо вашу згоду, якщо цього вимагатимуть правила.
+
+---
+
+## 🇯🇵 日本語
 **プライバシーポリシー**
 *最終更新日：2026年5月1日*
 

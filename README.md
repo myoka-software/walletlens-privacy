@@ -8,7 +8,7 @@
 
 **Analytics and Tracking:** The app does not use third-party analytics systems (trackers) and does not collect app usage statistics.
 
-**Receipt Recognition (OCR):** The receipt scanning feature works completely offline (on-device) using your device's built-in technologies. Receipt images are not sent to the internet for processing.
+**Receipt Recognition (OCR):** The receipt scanning feature works completely offline on your device using its built-in technologies. Receipt images are not sent to the internet for processing.
 
 **Feedback:** If you choose to send an email to our support team (myoka.help@gmail.com), we will only receive the information you voluntarily include in the email (e.g., your email address and message text). This data will be used solely to resolve your issue.
 
@@ -26,7 +26,7 @@
 
 **Analyse und Tracking:** Die App verwendet keine Analysesysteme von Drittanbietern (Tracker) und sammelt keine Nutzungsstatistiken.
 
-**Belegerkennung (OCR):** Die Beleg-Scanfunktion arbeitet vollständig offline (auf dem Gerät) und nutzt die integrierten Technologien Ihres Geräts. Bilder von Belegen werden zur Verarbeitung nicht ins Internet gesendet.
+**Belegerkennung (OCR):** Die Beleg-Scanfunktion arbeitet komplett offline auf Ihrem Gerät und nutzt dessen integrierte Technologien. Bilder von Belegen werden zur Verarbeitung nicht ins Internet gesendet.
 
 **Feedback:** Wenn Sie sich entscheiden, eine E-Mail an unseren Support (myoka.help@gmail.com) zu senden, erhalten wir nur die Informationen, die Sie freiwillig in die E-Mail aufnehmen (z. B. Ihre E-Mail-Adresse und den Nachrichtentext). Diese Daten werden ausschließlich zur Lösung Ihres Problems verwendet.
 
@@ -38,17 +38,17 @@
 **Politique de confidentialité**
 *Dernière mise à jour : 1 mai 2026*
 
-**Collecte de données :** Notre application est conçue en mettant l'accent sur votre vie privée. Nous ne collectons, ne stockons ni ne transmettons vos données personnelles ou informations financières à des serveurs tiers.
+**Collecte de données :** Notre application est conçue en mettant l’accent sur votre vie privée. Nous ne collectons, ne stockons ni ne transmettons vos données personnelles ou informations financières à des serveurs tiers.
 
-**Stockage des données :** Toutes les données que vous saisissez (transactions, portefeuilles, reçus) sont stockées exclusivement localement sur votre appareil à l'aide de mécanismes Apple sécurisés. Ni le développeur ni des tiers n'ont accès à votre historique financier.
+**Stockage des données :** Toutes les données que vous saisissez (transactions, portefeuilles, reçus) sont stockées exclusivement localement sur votre appareil à l’aide de mécanismes Apple sécurisés. Ni le développeur ni des tiers n’ont accès à votre historique financier.
 
-**Analyse et suivi :** L'application n'utilise pas de systèmes d'analyse tiers (traceurs) et ne collecte pas de statistiques d'utilisation.
+**Analyse et suivi :** L’application n’utilise pas de systèmes d’analyse tiers (traceurs) et ne collecte pas de statistiques d’utilisation.
 
-**Reconnaissance des reçus (OCR) :** La fonction de numérisation des reçus fonctionne entièrement hors ligne (sur l'appareil) en utilisant les technologies intégrées de votre appareil. Les images des reçus ne sont pas envoyées sur Internet pour être traitées.
+**Reconnaissance des reçus (OCR) :** La fonction de numérisation des reçus fonctionne entièrement hors ligne sur votre appareil en utilisant ses technologies intégrées. Les images des reçus ne sont pas envoyées sur Internet pour être traitées.
 
-**Retours d'information :** Si vous choisissez d'envoyer un e-mail à notre équipe d'assistance (myoka.help@gmail.com), nous ne recevrons que les informations que vous incluez volontairement dans l'e-mail (par exemple, votre adresse e-mail et le texte du message). Ces données seront utilisées uniquement pour résoudre votre problème.
+**Retours d'information :** Si vous choisissez d’envoyer un e-mail à notre équipe d’assistance (myoka.help@gmail.com), nous ne recevrons que les informations que vous incluez volontairement dans l’e-mail (par exemple, votre adresse e-mail et le texte du message). Ces données seront utilisées uniquement pour résoudre votre problème.
 
-**Modifications de la politique :** Lors de l'ajout de nouvelles fonctionnalités (telles que la synchronisation cloud dans les futures versions), cette politique sera mise à jour et nous demanderons votre consentement si la réglementation l'exige.
+**Modifications de la politique :** Lors de l’ajout de nouvelles fonctionnalités (telles que la synchronisation cloud dans les futures versions), cette politique sera mise à jour et nous demanderons votre consentement si la réglementation l’exige.
 
 ---
 
@@ -62,7 +62,7 @@
 
 **Analityka i śledzenie:** Aplikacja nie korzysta z systemów analitycznych stron trzecich (trackerów) i nie zbiera statystyk dotyczących korzystania z aplikacji.
 
-**Rozpoznawanie paragonów (OCR):** Funkcja skanowania paragonów działa całkowicie w trybie offline (na urządzeniu), wykorzystując wbudowane technologie Twojego urządzenia. Obrazy paragonów nie są wysyłane do internetu w celu przetworzenia.
+**Rozpoznawanie paragonów (OCR):** Funkcja skanowania paragonów działa całkowicie offline na Twoim urządzeniu, wykorzystując jego wbudowane technologie. Obrazy paragonów nie są wysyłane do internetu w celu przetworzenia.
 
 **Informacje zwrotne:** Jeśli zdecydujesz się wysłać e-mail do naszego zespołu wsparcia (myoka.help@gmail.com), otrzymamy tylko te informacje, które dobrowolnie dołączysz do wiadomości (np. Twój adres e-mail i treść wiadomości). Dane te będą wykorzystywane wyłącznie w celu rozwiązania Twojego problemu.
 
@@ -80,7 +80,7 @@
 
 **Аналитика и трекинг:** Приложение не использует сторонние системы аналитики (трекеры) и не собирает статистику об использовании приложения.
 
-**Распознавание чеков (OCR):** Функция сканирования чеков работает полностью автономно (on-device) с использованием встроенных технологий вашего устройства. Изображения чеков не отправляются в интернет для обработки.
+**Распознавание чеков (OCR):** Функция сканирования чеков работает полностью автономно прямо на вашем устройстве с использованием его встроенных технологий. Изображения чеков не отправляются в интернет для обработки.
 
 **Обратная связь:** Если вы решите отправить нам письмо в службу поддержки (myoka.help@gmail.com), мы получим только ту информацию, которую вы добровольно включите в письмо (например, ваш email и текст сообщения). Эти данные будут использованы исключительно для решения вашей проблемы.
 
@@ -98,7 +98,7 @@
 
 **Аналітика та трекінг:** Застосунок не використовує сторонні системи аналітики (трекери) та не збирає статистику про використання застосунку.
 
-**Розпізнавання чеків (OCR):** Функція сканування чеків працює повністю автономно (on-device) з використанням вбудованих технологій вашого пристрою. Зображення чеків не відправляються в інтернет для обробки.
+**Розпізнавання чеків (OCR):** Функція сканування чеків працює повністю автономно безпосередньо на вашому пристрої з використанням його вбудованих технологій. Зображення чеків не відправляються в інтернет для обробки.
 
 **Зворотний зв'язок:** Якщо ви вирішите відправити нам лист у службу підтримки (myoka.help@gmail.com), ми отримаємо лише ту інформацію, яку ви добровільно включите в лист (наприклад, ваш email та текст повідомлення). Ці дані будуть використані виключно для вирішення вашої проблеми.
 
@@ -116,7 +116,7 @@
 
 **分析と追跡：** アプリはサードパーティの分析システム（トラッカー）を使用しておらず、アプリの使用統計を収集しません。
 
-**レシート認識（OCR）：** レシートのスキャン機能は、デバイスに組み込まれたテクノロジーを使用して、完全にオフライン（オンデバイス）で機能します。レシートの画像が処理のためにインターネットに送信されることはありません。
+**レシート認識（OCR）：** レシートのスキャン機能は、デバイスに組み込まれたテクノロジーを使用して、デバイス上で完全にオフラインで機能します。レシートの画像が処理のためにインターネットに送信されることはありません。
 
 **フィードバック：** サポートチーム (myoka.help@gmail.com) にメールを送信することを選択した場合、当社は、お客様がメールに自発的に含めた情報（メールアドレスやメッセージテキストなど）のみを受け取ります。このデータは、お客様の問題を解決するためだけに使用されます。
 

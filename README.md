@@ -1,6 +1,6 @@
 ## 🇺🇸 English
 **Privacy Policy**
-*Last updated: May 1, 2026*
+*Last updated: May 4, 2026*
 
 **Data Collection:** Our app is built with a focus on your privacy. We do not collect, store, or transmit your personal data or financial information to third-party servers.
 
@@ -18,7 +18,7 @@
 
 ## 🇩🇪 Deutsch
 **Datenschutzerklärung**
-*Letzte Aktualisierung: 1. Mai 2026*
+*Letzte Aktualisierung: 4. Mai 2026*
 
 **Datenerfassung:** Unsere App wurde mit Fokus auf Ihre Privatsphäre entwickelt. Wir erfassen, speichern oder übertragen Ihre persönlichen Daten oder Finanzinformationen nicht an Server von Drittanbietern.
 
@@ -36,7 +36,7 @@
 
 ## 🇫🇷 Français
 **Politique de confidentialité**
-*Dernière mise à jour : 1 mai 2026*
+*Dernière mise à jour : 4 mai 2026*
 
 **Collecte de données :** Notre application est conçue en mettant l’accent sur votre vie privée. Nous ne collectons, ne stockons ni ne transmettons vos données personnelles ou informations financières à des serveurs tiers.
 
@@ -54,7 +54,7 @@
 
 ## 🇵🇱 Polski
 **Polityka prywatności**
-*Ostatnia aktualizacja: 1 maja 2026 r.*
+*Ostatnia aktualizacja: 4 maja 2026 r.*
 
 **Gromadzenie danych:** Nasza aplikacja została stworzona z myślą o Twojej prywatności. Nie gromadzimy, nie przechowujemy ani nie przesyłamy Twoich danych osobowych ani informacji finansowych na serwery stron trzecich.
 
@@ -72,7 +72,7 @@
 
 ## 🇷🇺 Русский
 **Политика конфиденциальности**
-*Последнее обновление: 1 мая 2026 г.*
+*Последнее обновление: 4 мая 2026 г.*
 
 **Сбор данных:** Наше приложение создано с фокусом на вашу приватность. Мы не собираем, не храним и не передаем ваши личные данные или финансовую информацию на сторонние серверы.
 
@@ -90,7 +90,7 @@
 
 ## 🇺🇦 Українська
 **Політика конфіденційності**
-*Останнє оновлення: 1 травня 2026 р.*
+*Останнє оновлення: 4 травня 2026 р.*
 
 **Збір даних:** Наш застосунок створено з фокусом на вашу приватність. Ми не збираємо, не зберігаємо та не передаємо ваші особисті дані або фінансову інформацію на сторонні сервери.
 
@@ -108,7 +108,7 @@
 
 ## 🇯🇵 日本語
 **プライバシーポリシー**
-*最終更新日：2026年5月1日*
+*最終更新日：2026年5月4日*
 
 **データ収集：** 当社のアプリは、お客様のプライバシーを重視して構築されています。お客様の個人データや財務情報を収集、保存、またはサードパーティのサーバーに送信することはありません。
 
